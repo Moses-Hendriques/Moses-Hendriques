@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Hendriques&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Crafting%20Scalable%20%26%20Beautiful%20Web%20Experiences&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moses%20Hendriques&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Crafting%20Scalable%20%26%20Beautiful%20Web%20Experiences&descAlignY=62&descSize=16)
 
 <div align="center">
 
@@ -8,8 +8,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-profile&color=70a5fd&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/your-profile?color=70a5fd&style=flat-square&logo=github&label=Followers)](https://github.com/your-profile)
+![Profile Views](https://komarev.com/ghpvc/?username=Moses-Hendriques&color=70a5fd&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Moses-Hendriques?color=70a5fd&style=flat-square&logo=github&label=Followers)](https://github.com/Moses-Hendriques)
 [![Portfolio](https://img.shields.io/badge/Portfolio-atheesinfo.com-70a5fd?style=flat-square&logo=firefox&logoColor=white)](https://www.atheesinfo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-hendriques)
 [![Email](https://img.shields.io/badge/Email-moseshendriques1130%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moseshendriques1130@gmail.com)
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```javascript
 const moses = {
@@ -86,11 +86,11 @@ const moses = {
 
 <div align="center">
 
-<a href="https://github.com/your-profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Moses-Hendriques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moses-Hendriques&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/your-profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Moses-Hendriques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-Hendriques&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -101,7 +101,7 @@ const moses = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-profile&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moses-Hendriques&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,7 +111,7 @@ const moses = {
 
 <div align="center">
 
-[![Moses's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-profile&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/your-profile)
+[![Moses's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moses-Hendriques&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Moses-Hendriques)
 
 </div>
 
@@ -121,7 +121,7 @@ const moses = {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=your-profile&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/your-profile)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Moses-Hendriques&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Moses-Hendriques)
 
 </div>
 
@@ -234,4 +234,4 @@ const moses = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
